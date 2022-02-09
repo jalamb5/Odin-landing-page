@@ -164,7 +164,7 @@ button {
     border-radius: .75em;
     display: flex;
     align-items: center;
-    gap: 200px;
+    gap: 100px;
 }
 
 .boldfour {
@@ -179,6 +179,7 @@ button {
 .buttonfour {
     border: solid white;
     height: fit-content;
+    min-width: fit-content;
 }
 
 .footer {
